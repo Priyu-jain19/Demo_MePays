@@ -1,0 +1,1083 @@
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+D:\Mantra_Payroll\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.exe
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\appsettings.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.exe
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.deps.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.runtimeconfig.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.API.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.DAL.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\Payroll.Common.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\RoleService.BAL.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\bin\Debug\net8.0\UserService.BAL.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.AssemblyReference.cache
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfoInputs.cache
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.AssemblyInfo.cs
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.csproj.CoreCompileInputs.cache
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.sourcelink.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.UserService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.UserService.API.props
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.API.props
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.API.props
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\scopedcss\bundle\UserService.API.styles.css
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserServ.7E4AE71C.Up2Date
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\refint\UserService.API.dll
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.pdb
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\UserService.API.genruntimeconfig.cache
+D:\Payroll_Git\PayrollApplication\Microservices\UserService\UserService.API\obj\Debug\net8.0\ref\UserService.API.dll

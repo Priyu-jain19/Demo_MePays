@@ -1,0 +1,12 @@
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\bin\Release\net8.0\RoleService.BAL.deps.json
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\bin\Release\net8.0\RoleService.BAL.dll
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\bin\Release\net8.0\RoleService.BAL.pdb
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.AssemblyInfoInputs.cache
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.AssemblyInfo.cs
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.csproj.CoreCompileInputs.cache
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.sourcelink.json
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.dll
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\refint\RoleService.BAL.dll
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\RoleService.BAL.pdb
+D:\Payroll_Git\PayrollApplication\RoleService.BAL\obj\Release\net8.0\ref\RoleService.BAL.dll

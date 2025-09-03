@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYN9KA351f0+KdTI2oODuUXZODz8AB7e0MRUS7ZR/sbNNllkS1UPFjkB6ctNvzTXene6e9hHE75OCob7Yl+xRA==",
+  "success": true,
+  "projectFilePath": "D:\\Payroll_Git\\PayrollApplication\\Microservices\\RoleService\\RoleService.API\\RoleService.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Priyanshu.Jain\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

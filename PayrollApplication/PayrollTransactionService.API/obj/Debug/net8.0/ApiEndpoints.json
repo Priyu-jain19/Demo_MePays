@@ -1,0 +1,174 @@
+[
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "DeleteAuditTrail",
+    "RelativePath": "api/AuditTrailApi/deleteaudittrail/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "GetAllAuditTrails",
+    "RelativePath": "api/AuditTrailApi/getallaudittrails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "GetAuditTrailById",
+    "RelativePath": "api/AuditTrailApi/getaudittrailbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "GetAuditTrailsByDateRange",
+    "RelativePath": "api/AuditTrailApi/getAuditTrails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestModel",
+        "Type": "PayrollTransactionService.BAL.ReportModel.AuditTrail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "PostAuditTrail",
+    "RelativePath": "api/AuditTrailApi/postaudittrail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auditTrail",
+        "Type": "PayrollTransactionService.BAL.ReportModel.AuditTrail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.AuditTrailApiController",
+    "Method": "UpdateAuditTrail",
+    "RelativePath": "api/AuditTrailApi/updateaudittrail/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "auditTrail",
+        "Type": "PayrollTransactionService.BAL.ReportModel.AuditTrail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.NotificationController",
+    "Method": "GetActiveNotifications",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PayrollTransactionService.BAL.Models.Notification, PayrollTransactionService.BAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.NotificationController",
+    "Method": "GetActiveNotifications",
+    "RelativePath": "api/Notification/GetActiveNotifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PayrollTransactionService.BAL.Models.Notification, PayrollTransactionService.BAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.PendingApprovalRequestApiController",
+    "Method": "GetUnapprovedRequests",
+    "RelativePath": "api/PendingApprovalRequestApi/getUnapprovedRequests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterModel",
+        "Type": "PayrollTransactionService.BAL.ReportModel.PendingApprovalRejectionFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayrollTransactionService.API.Controllers.UserActivateDeactivateStatusController",
+    "Method": "PutServiceApprovalRejection",
+    "RelativePath": "api/UserActivateDeactivateStatus/updateServiceApprovalRejection/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "PayrollTransactionService.BAL.Models.ServiceApprovalRejection",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

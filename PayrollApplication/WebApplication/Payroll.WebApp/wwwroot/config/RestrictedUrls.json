@@ -1,0 +1,30 @@
+﻿{
+  "RestrictedUrls": [
+    "/Home/Index",
+    "/Home/Privacy",
+
+    "/SalaryStructure/SalaryStructureSimulator",
+    "/SalaryStructure/GetSalaryStructure",
+    "/SalaryStructure/SalaryStructureGrid",
+
+    "/FormulaMaster/Index",
+    "/FormulaMaster/AddUpdateFormula",
+
+    "/PayConfiguration/PayGrade",
+    "/PayConfiguration/PayComponents",
+    "/PayConfiguration/PayGradeMapping",
+
+    "/TaxSlab/TaxSlab",
+    "/TaxSlab/AssignIncomeTaxSlab",
+
+    "/EntityMaster/GradeEntityMapping",
+
+    "/ContractorValidation/Index",
+
+    "/PayrollProcessing/PayrollProcess",
+    "/PayrollProcessing/PayrollProcessList",
+
+    "/User/Index",
+    "/User/UserProfile"
+  ]
+}

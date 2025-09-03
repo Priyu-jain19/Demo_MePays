@@ -1,0 +1,282 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Payroll.Common.ApplicationConstant
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var currentYear = DateTime.UtcNow.Year.ToString();
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mantra Payroll Management System</title>
+    <link rel="stylesheet" href="~/assets/plugins/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link href="~/assets/src/css/datatables.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/assets/src/css/fonts.css">
+    <link rel="stylesheet" href="~/assets/src/scss/style.css">
+
+    <!-- jQuery should be loaded before Select2 -->
+    <script type="text/javascript">
+        function preventBack() {
+            window.history.forward();
+        }
+
+        setTimeout("preventBack()", 0);
+
+        window.onunload = function () { null };
+    </script>
+</head>
+<body>
+    <section class="page_wrapper_main">
+       
+        <div class="sidebar_wrapper">
+            <ul class="navbar-nav nav in">
+                <a class="navbar-brand sidebar-profile" title="This is a tooltip!">
+                    <img src="~/assets/img/sidebar-log-icon.svg" width="32" height="32" alt="sidebar-logo" />
+                </a>
+
+                <li class="nav-item active">
+                    <a href="#" class="nav-link" tooltip="dashboard" data-menuid="4"><span class="menu-sprite user-menu"></span></a>
+                    @* Dynamic Menu Bind :- Start *@
+                    @await Component.InvokeAsync("MenuPartial")
+                    @* Dynamic Menu Bind :- End *@
+                </li>
+            </ul>          
+            <div class="nav-bottom">
+                <ul>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" id="masterDropdown" data-mdb-toggle="dropdown"
+                           aria-expanded="false"><span class="menu-sprite menu-notification"></span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link"><span class="menu-sprite writing-pad"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+       
+        <div class="header-wrapper">
+            <nav class="navbar navbar-expand-md navbar-dark">
+                <div class="d-flex align-items-center gap-3">
+                    <a class="header-brand-logo" href="#">
+                        <img src="~/assets/img/brand-logo.svg" height="28" width="104"
+                             alt="brand-logo">
+                    </a>
+                    <div class="chip">
+                        <p class="header-chip-text">Financial Year 2025-2026 (Q3)</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center gap-3">
+                   
+                    <button class="btn btn_primary_light_icon">
+                        <span class="sprite-icons notification-dark"></span>
+                    </button>
+                    <a class="navbar-brand sidebar-profile" type="button" data-bs-toggle="offcanvas"
+                       data-bs-target="#headerProfile" aria-controls="headerProfile">
+                        <img src="~/assets/img/icons/sidebar-profile.svg" width="32" height="32" alt="sidebar-logo">
+                    </a>
+                </div>
+            </nav>
+        </div>
+        <div class="main-page">
+
+            <div class="breadcrumb-container">
+                @if (ViewBag.HideBreadcrumb != true)
+                {
+                    @await Component.InvokeAsync("BreadCrumbPartial")
+                }
+            </div>
+
+            <div class="payroll-tabs-content-container">
+                <div class="modal fade modal-custom modal-primary"
+                     id="tabRestrictionModal"
+                     data-bs-backdrop="static"
+                     data-bs-keyboard="false"
+                     tabindex="-1"
+                     aria-labelledby="tabRestrictionModalLabel"
+                     aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-body text-center">
+                                <img src="~/assets/img/icons/priamry-done-modal.svg" width="134" height="77" alt="Blocked">
+                                <p class="title-primary mb-2">This Page is Open in Another Tab</p>
+                                <p class="sm-text-gray-neutral">Do you want to use it here instead?</p>
+                            </div>
+                            <div class="modal-footer text-center">
+                                <button type="button" id="useHereBtn" class="btn btn_primary_outline_md">Yes, Use Here</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                @RenderBody()
+            </div>
+        </div>
+    </section>
+    @* Offcanvas Region:- Start *@
+    @await Component.InvokeAsync("HeaderOffcanvas")
+    @* Offcanvas Region:- End *@
+
+    <!-- Modal -->
+    <div class="modal fade modal-custom modal-primary" id="customTabURLRestricted" tabindex="-1"
+         aria-labelledby="customAlertModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <img src="~/assets/img/icons/priamry-done-modal.svg" width="134" height="77" alt="successfully done">
+                    <p class="title-primary mb-2" id="customTabURLRestrictedAlertMessage">Default message</p>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" id="customTabURLRestrictedAlertYes" class="btn btn_primary_outline_md" data-bs-dismiss="modal">
+                        OK
+                    </button>
+                    <button type="button" id="customTabURLRestrictedAlertNo" class="btn btn_primary d-none">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    @* Script Given By Designer :- Start *@
+    <script src="~/assets/src/js/jquery.min.js"></script>
+    <script src="~/assets/src/js/popper.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
+    <script src="~/assets/src/js/datatables.js"></script> 
+    <script src="~/assets/src/custom-js/datatable.js"></script> 
+    <script src="~/assets/src/custom-js/placeholder.js"></script>
+    <script src="~/application/js/common/alerttoaster.js"></script>
+    <script src="~/assets/src/js/select2.min.js"></script> <!-- Add Select2 JS -->
+    @* <script src="~/assets/custom-js/customdropdown.js"></script> *@
+    <script src="~/assets/src/custom-js/select2.js"></script>
+    <script src="~/assets/src/custom-js/script.js"></script>
+    <script>
+
+     
+
+
+
+        function setMenuIdAndRedirect(menuId, redirectUrl) {
+            $.ajax({
+                url: '/Account/StoreMenuIdInSession',
+                type: 'POST',
+                data: { menuId: menuId },             
+                success: function () {
+                    window.location.href = redirectUrl;
+                },
+                error: function () {
+                    console.error("Failed to set menuId.");
+                    window.location.href = redirectUrl; // Optional fallback
+                }
+            });
+        }
+
+    </script>
+    @* <script src="~/application/js/user/user.js"></script> *@
+
+
+    @* Script Given By Designer :- End *@
+
+    @* Script Created By Rohit Tiwari:- Start *@
+    <script>
+        $(function () {
+            const tabKeyPrefix = 'UniquePayrollTabId_';   // Prefix for tab keys based on paths
+            const currentPath = window.location.pathname; // Current path
+        });
+    </script>
+   @*  <script src="~/application/js/common/tabrestrictedurls.js"></script> *@
+  @*   <script src="~/application/js/common/common.js"></script> *@
+   
+
+    @RenderSection("Scripts", required: false)
+
+   @*  <script src="~/application/js/common/tabrestrictedurls.js"></script> *@
+    <script src="~/application/js/common/common.js"></script>
+    <script src="~/js/toastr.min.js"></script>
+
+ <script>
+    const allowedPaths = [
+        "/Home/Privacy",
+        "/SalaryStructure/SalaryStructureSimulator",
+        "/SalaryStructure/GetSalaryStructure",
+        "/SalaryStructure/SalaryStructureGrid",
+        "/FormulaMaster/Index",
+        "/FormulaMaster/AddUpdateFormula",
+        "/PayConfiguration/PayGrade",
+        "/PayConfiguration/PayComponents",
+        "/PayConfiguration/PayGradeMapping",
+        "/TaxSlab/TaxSlab",
+        "/TaxSlab/AssignIncomeTaxSlab",
+        "/EntityMaster/GradeEntityMapping",
+        "/ContractorValidation/Index",
+        "/PayrollProcessing/PayrollProcess",
+        "/PayrollProcessing/PayrollProcessList",
+        "/User/Index",
+        "/User/UserProfile"
+    ];
+
+    const currentPath = window.location.pathname;
+
+    if (allowedPaths.includes(currentPath)) {
+        const tabChannel = new BroadcastChannel("payroll-single-tab");
+        let isPrimaryTab = true;
+        let hasOwnership = true;
+
+        tabChannel.postMessage({ type: "check-if-tab-exists" });
+
+        tabChannel.onmessage = (event) => {
+            const message = event.data;
+
+            if (message.type === "check-if-tab-exists") {
+                if (hasOwnership) {
+                    tabChannel.postMessage({ type: "tab-already-exists" });
+                }
+            }
+
+            if (message.type === "tab-already-exists") {
+                if (!hasOwnership) return;
+
+                hasOwnership = false;
+                isPrimaryTab = false;
+
+                const modal = new bootstrap.Modal(document.getElementById('tabRestrictionModal'), {
+                    backdrop: 'static',
+                    keyboard: false
+                });
+                modal.show();
+            }
+
+            if (message.type === "force-deactivate") {
+                if (!hasOwnership) return;
+
+                hasOwnership = false;
+                isPrimaryTab = false;
+
+                const modal = new bootstrap.Modal(document.getElementById('tabRestrictionModal'), {
+                    backdrop: 'static',
+                    keyboard: false
+                });
+                modal.show();
+            }
+        };
+
+        document.getElementById("useHereBtn")?.addEventListener("click", () => {
+            hasOwnership = true;
+            isPrimaryTab = true;
+
+            tabChannel.postMessage({ type: "force-deactivate" });
+
+            const modalEl = document.getElementById('tabRestrictionModal');
+            const modalInstance = bootstrap.Modal.getInstance(modalEl);
+            modalInstance?.hide();
+        });
+    }
+</script>
+
+
+</body>
+</html>

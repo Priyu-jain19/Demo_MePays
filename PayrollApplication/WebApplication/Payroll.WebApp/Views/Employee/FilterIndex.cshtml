@@ -1,0 +1,682 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stabdard Filter Modal</title>
+    <link rel="stylesheet" href="assets/plugins/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link href="assets/src/css/datatables.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/src/css/fonts.css">
+    <link rel="stylesheet" href="assets/src/scss/style.css">
+</head>
+
+<body>
+    <!-- top line page loader start -->
+    <!-- trigger the demo -->
+    <div href="#" id="show"></div>
+    <!-- top line page loader end -->
+    <section class="page_wrapper_main">
+        <div class="sidebar_wrapper">
+            <ul class="navbar-nav nav in">
+                <!-- <a class="navbar-brand sidebar-profile" href="#"> <img src="assets/img/icons/sidebar-profile.svg"
+                        width="40" height="40" alt="sidebar-logo" /> </a> -->
+                <!-- <li class="nav-item"> -->
+                <a class="navbar-brand sidebar-profile" title="This is a tooltip!">
+                    <img src="assets/img/sidebar-log-icon.svg" width="32" height="32" alt="sidebar-logo" />
+                </a>
+                <!-- </li> -->
+                <li class="nav-item quick-add">
+                    <a class="nav-link" data-toggle="tooltip" title="This is a tooltip!">
+                        <span class="menu-sprite quick-add"></span>
+                    </a>
+                    <ul class="sub-menu">
+                        <li class="sub-menu-title">Customize Theme</li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Vigna</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item active">
+                    <a href="#" class="nav-link" tooltip="dashboard"><span class="menu-sprite user-menu"></span></a>
+                    <ul class="sub-menu">
+                        <li class="sub-menu-title">Customize Theme</li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="nested-sub-menu">
+                            <input type="checkbox" id="submenu3">
+                            <label class="dropdown-item" for="submenu3">
+                                Services 1<span class="sprite-icons down-arrow-dark"></span>
+                            </label>
+                            <ul class="nested-sub-menu-list">
+                                <li class="sub-menu-list"><a class="sub-menu-item">Action 1</a></li>
+                                <li class="nested-sub-menu">
+                                    <input type="checkbox" id="submenu4">
+                                    <label class="dropdown-item" for="submenu4">
+                                        Services 2 <span class="sprite-icons down-arrow-dark"></span>
+                                    </label>
+                                    <ul class="nested-sub-menu-list">
+                                        <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 1</a></li>
+                                        <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 2</a></li>
+                                        <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 3</a></li>
+                                    </ul>
+                                </li>
+                                <li class="sub-menu-list"><a class="sub-menu-item">Action 3</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Menu List</a></li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Vigna</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#" class="nav-link"><span class="menu-sprite open-mail"></span></a>
+
+                    <ul class="sub-menu">
+                        <li class="sub-menu-title">Dashboard</li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Vigna</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-toggle="tooltip" title="This is a tooltip!">
+                        <span class="menu-sprite writing-pad"></span>
+                    </a>
+
+                    <!-- <ul class="sub-menu">
+                        <li class="sub-menu-title">Dashboard</li>
+                        <li class="sub-menu-list"><a class="sub-menu-item">Vigna</a></li>
+                    </ul> -->
+                </li>
+            </ul>
+
+            <div class="nav-bottom">
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link" id="masterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="menu-sprite master-icon"></span>
+                        </a>
+                        <ul class="dropdown-menu sub-menu" aria-labelledby="masterDropdown" onclick="disableDropdown()">
+                            <li class="sub-menu-title">Dummy Title</li>
+                            <li class="sub-menu-list"><a class="dropdown-item">Action</a></li>
+                            <li class="sub-menu-list">
+                                <a class="dropdown-item">Another</a>
+                            </li>
+                            <li class="nested-sub-menu">
+                                <input type="checkbox" id="submenu1">
+                                <label class="dropdown-item" for="submenu1">
+                                    Services 1<span class="sprite-icons down-arrow-dark"></span>
+                                </label>
+                                <ul class="nested-sub-menu-list">
+                                    <li class="sub-menu-list"><a class="sub-menu-item">Action 1</a></li>
+                                    <li class="nested-sub-menu">
+                                        <input type="checkbox" id="submenu2">
+                                        <label class="dropdown-item" for="submenu2">
+                                            Services 2 <span class="sprite-icons down-arrow-dark"></span>
+                                        </label>
+                                        <ul class="nested-sub-menu-list">
+                                            <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 1</a></li>
+                                            <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 2</a></li>
+                                            <li class="sub-menu-list"><a class="sub-menu-item">Sub Services 3</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="sub-menu-list"><a class="sub-menu-item">Action 3</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" id="masterDropdown" data-mdb-toggle="dropdown"
+                           aria-expanded="false"><span class="menu-sprite menu-notification"></span></a>
+                        <!-- <ul class="sub-menu">
+                            <li class="sub-menu-title">Dashboard</li>
+                        </ul> -->
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link"><span class="menu-sprite writing-pad"></span></a>
+
+                        <!-- <ul class="sub-menu">
+                            <li class="sub-menu-title">Dashboard</li>
+                        </ul> -->
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="header-wrapper">
+            <nav class="navbar navbar-expand-md navbar-dark">
+                <div class="d-flex align-items-center gap-3">
+                    <a class="header-brand-logo" href="#">
+                        <img src="assets/img/brand-logo.svg" height="28" width="104"
+                             alt="brand-logo">
+                    </a>
+                    <div class="chip">
+                        <p class="header-chip-text">Financial Year 2024-2025 (Q4)</p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center gap-3">
+                    <div class="search-box">
+                        <button class="btn btn-search-absolute">
+                            <span class="sprite-icons search-secondary"></span>
+                        </button>
+                        <input type="text" class="form-control" placeholder="search...">
+                    </div>
+                    <!-- <div>
+                        <button class="btn btn_primary_light_icon" type="button" id="dropdownMenuButton1"
+                            data-bs-toggle="dropdown" aria-expanded="false"><span
+                                class="sprite-icons2 question-mark"></span></button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another</a></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </div> -->
+                    <button class="btn btn_primary_light_icon">
+                        <span class="sprite-icons notification-dark"></span>
+                    </button>
+                    <a class="navbar-brand sidebar-profile" type="button" data-bs-toggle="offcanvas"
+                       data-bs-target="#headerProfile" aria-controls="headerProfile">
+                        <img src="assets/img/icons/sidebar-profile.svg" width="32" height="32" alt="sidebar-logo">
+                    </a>
+                </div>
+            </nav>
+        </div>
+
+        <div class="main-page">
+            <div class="payroll-tabs-content-container">
+                <nav>
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <button class="nav-link active"
+                                onclick="window.location.href='configuration-matrix.html'">
+                            Standard Filter Modal
+                        </button>
+                    </div>
+                </nav>
+
+                <div class="quick-filter-container">
+                    <div class="btn-group-left">
+                        <div class="chip primary">Total: <span>03</span></div>
+                    </div>
+                    <div class="icon-title">
+                        <button class="btn btn_primary add-button" data-bs-toggle="offcanvas"
+                                data-bs-target="#addConfigurationMatrix" aria-controls="addConfigurationMatrix">
+                            <span class="sprite-icons add-light"></span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="nav-user-list" role="tabpanel"
+                         aria-labelledby="nav-user-list-tab">
+
+                        <div class="table-card">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="table-responsive table-roles-permission-list">
+                                        <table id="user-list" class="table custom-table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Module Name</th>
+                                                    <th>Service Name</th>
+                                                    <th>No. of Levels</th>
+                                                    <th>Assigned Level 1 User</th>
+                                                    <th>Assigned Level 2 User</th>
+                                                    <th class="sticky_cell">Actions</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Dummy data</td>
+                                                    <td>Dummy data</td>
+                                                    <td>Dummy data</td>
+                                                    <td>Dummy data</td>
+                                                    <td>Dummy data</td>
+                                                    <td class="sticky_cell">
+                                                        <div class="table-button-group">
+                                                            <button class="btn btn-primary-light-icon-md"
+                                                                    data-bs-toggle="offcanvas"
+                                                                    data-bs-target="#editConfigurationMatrix"
+                                                                    aria-controls="editConfigurationMatrix">
+                                                                <span class="sprite-icons edit-secondary-lg"></span>
+                                                            </button>
+                                                            <button class="btn btn-danger-light-icon"
+                                                                    data-bs-toggle="modal"
+                                                                    data-bs-target="#deleteContractor">
+                                                                <span class="sprite-icons delete-danger"></span>
+                                                            </button>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="offcanvas offcanvas-end offcanvas-primary" tabindex="-1" id="offcanvas1"
+         aria-labelledby="offcanvas1Label">
+        <div class="offcanvas-header">
+            <p class="title-primary-md-600">Customize View</p>
+            <button type="button" class="btn" data-bs-dismiss="offcanvas" aria-label="Close">
+                <span class="sprite-icons close-icon"></span>
+            </button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="search-box ob-search-box">
+                <button class="btn btn-search-absolute"><span class="sprite-icons search-secondary"></span></button>
+                <input type="text" class="form-control" placeholder="Search...">
+            </div>
+            <div class="customized-list company-setup-checklist-container">
+                <div class="row g-0">
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <input id="checklist1" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist1" class="form-label">Level up level upppprryyy </label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Fine Level up level uppp</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Show up level uppp</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Level up level uppp</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">ching chong chungggg</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                        <div class="input-group">
+                            <input id="checklist6" class="form-check-input" type="checkbox" value=""
+                                   aria-label="Checkbox for following text input">
+                            <label for="checklist6" class="form-label">Dummy content</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="offcanvas-footer">
+            <div class="btn_group">
+                <button class="btn btn-transparent-danger">reset</button>
+                <div class="btn-action-variants">
+                    <button class="btn btn_primary_outline_md" data-bs-dismiss="offcanvas"
+                            aria-label="Close">
+                        Cancel
+                    </button>
+                    <button class="btn btn_primary loader-dot-pulse">Save Changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- standard filter modal start -->
+    <div class="modal fade right-align standard-filter-modal drawer" id="standardFilterModal" tabindex="-1"
+         data-bs-backdrop="true" tabindex="-1" aria-hidden="true" data-keyword="true">
+        <div class="modal-dialog modal-dialog-slideout" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p class="title-primary-md-600">Filter</p>
+                    <button type="button" class="btn" data-bs-dismiss="modal" aria-label="Close">
+                        <span class="sprite-icons close-icon"></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label for="value" class="form-label">Input Component</label>
+                                <input type="text" class="form-control" placeholder="Enter value" id="value"
+                                       name="value">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="input-group align-items-center mb-3">
+                                <input id="checklist1" class="form-check-input mt-0" type="checkbox" value=""
+                                       aria-label="Checkbox for following text input">
+                                <label for="checklist1" class="form-label mb-0">Checkbox Component</label>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label for="approvallevels" class="form-label">Date Component</label>
+                                <div class="date-picker-container">
+                                    <input type="text" class="form-control datepicker" placeholder="From Date"
+                                           id="edatef" name="edatef">
+                                    <button class="btn btn-datepicker">
+                                        <span class="sprite-icons2 date-picker"></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label for="exampleInputEmail1" class="form-label">Dropdown Component</label>
+                                <div class="dropdown">
+                                    <a class="btn dropdown-link dropdown-toggle" id="dropdownTextbox" role="button"
+                                       data-bs-toggle="dropdown" aria-expanded="false">
+                                        Parallel
+                                    </a>
+                                    <ul class="dropdown-menu" id="dropdownMenu">
+                                        <li><a class="dropdown-item" data-value="1">Parallel</a></li>
+                                        <li><a class="dropdown-item" data-value="2">Sequential</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="btn_group">
+                        <button class="btn btn-transparent-danger">reset</button>
+                        <div class="btn-action-variants">
+                            <button class="btn btn_primary_outline_md" data-bs-dismiss="modal"
+                                    aria-label="Close">
+                                Cancel
+                            </button>
+                            <button class="btn btn_primary loader-dot-pulse">Save Changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- standard filter modal end -->
+    <!-- <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas2" aria-labelledby="offcanvas2Label">
+        <div class="offcanvas-header">
+            <h5 id="offcanvas2Label">Offcanvas 2</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            Content for the second offcanvas goes here.
+        </div>
+    </div> -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas3" aria-labelledby="offcanvas3Label">
+        <div class="offcanvas-header">
+            <h5 id="offcanvas3Label">Offcanvas 3</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            Content for the third offcanvas goes here.
+        </div>
+    </div>
+
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="headerProfile" aria-labelledby="headerProfileLabel">
+        <div class="offcanvas-header offcanvas-header-close-only">
+            <!-- <h5 id="headerProfileLabel">Offcanvas right</h5> -->
+            <button type="button" class="btn" data-bs-dismiss="offcanvas" aria-label="Close">
+                <span class="sprite-icons close-icon"></span>
+            </button>
+        </div>
+        <div class="offcanvas-body pt-0">
+            <div class="profile-summary">
+                <img class="profile-photo" src="assets/img/profile.svg" height="120" width="120" alt="profile photo">
+                <p class="profile-name">vigna bagdai</p>
+                <p class="profile-email sm-text">vigna.bagdai@mantratec.com</p>
+            </div>
+
+            <div class="select-role-list">
+                <label for="exampleInputEmail1" class="form-label">Select Role:</label>
+                <div class="dropdown">
+                    <a class="btn dropdown-link dropdown-toggle" id="dropdownTextbox" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false">
+                        Admin
+                    </a>
+                    <ul class="dropdown-menu" id="dropdownMenu">
+                        <li><a class="dropdown-item" data-value="1">Action</a></li>
+                        <li><a class="dropdown-item" data-value="2">Another action</a></li>
+                        <li><a class="dropdown-item" data-value="3">Something else here</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="own-profile-security">
+                <button class="btn btn-primary-light"><span class="sprite-icons user-icon"></span>profile</button>
+                <button class="btn btn-primary-light">
+                    <span class="sprite-icons password-lock"></span>change
+                    password
+                </button>
+            </div>
+
+            <hr />
+
+            <div class="theme-selection">
+                <div class="light-dark-mode">
+                    <div class="icon-title">
+                        <span class="sprite-icons non-handle-bag"></span>
+                        <p class="form-check-label">Select Theme</p>
+                    </div>
+                    <div class="theme-box">
+                        <div class="light-theme-box">
+                            <img src="assets/img/dark-theme.svg" height="44" width="74" alt="dark theme">
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="flexRadioDefault"
+                                       id="flexRadioDefault1">
+                                <label class="form-check-label" for="flexRadioDefault1" id="toggleLight">
+                                    Light Theme
+                                </label>
+                            </div>
+
+                        </div>
+                        <div class="dark-theme-box">
+                            <img src="assets/img/light-theme.svg" height="44" width="74" alt="light theme">
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="flexRadioDefault"
+                                       id="flexRadioDefault1">
+                                <label class="form-check-label" for="flexRadioDefault1">
+                                    Dark Theme
+                                </label>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="offcanvas-footer">
+            <div class="logout-container">
+                <button class="btn btn-danger-light" onclick="window.location.href='login.html'">
+                    <span class="sprite-icons logout-icon"></span>Logout
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="assets/src/js/jquery.min.js"></script>
+    <script src="assets/src/js/popper.min.js"></script>
+    <script src="assets/plugins/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
+    <script src="assets/src/js/datatables.js"></script>
+    <script src="assets/src/custom-js/datatable.js"></script>
+    <script src="assets/src/custom-js/placeholder.js"></script>
+
+    <!-- date picker plugins -->
+    <script src="assets/src/js/bootstrap-datepicker.min.js"></script>
+    <!-- date picker custom js file -->
+    <script src="assets/src/custom-js/datepicker-ctm.js"></script>
+
+    <!-- top line page loader js start -->
+    <script>
+
+        $(document).ready(function () {
+            // Inject the progress bar when the page loads or refreshes
+            if ($("#progress").length === 0) {
+                $("body").append($("<div><b></b><i></i></div>").attr("id", "progress"));
+
+                // Animate the progress bar
+                $("#progress").width("101%").delay(800).fadeOut(1000, function () {
+                    // After animation ends, remove the progress bar
+                    $(this).remove();
+                });
+            }
+
+            // Optional: Show the progress bar on click (as per the original functionality)
+            $("#show").click(function () {
+                if ($("#progress").length === 0) {
+                    $("body").append($("<div><b></b><i></i></div>").attr("id", "progress"));
+
+                    $("#progress").width("101%").delay(800).fadeOut(1000, function () {
+                        $(this).remove();
+                    });
+                }
+            });
+        });
+    </script>
+    <!-- top line page loader js end -->
+    <!-- textarea character counter -->
+    <script>
+        // Select all textareas
+        const textareas = document.querySelectorAll('.textarea');
+
+        // Loop through each textarea
+        textareas.forEach((textarea) => {
+            const counter = textarea.nextElementSibling; // Select the associated counter element
+
+            textarea.addEventListener('input', () => {
+                const charCount = textarea.value.length;
+                const maxLength = textarea.getAttribute('maxlength');
+                counter.textContent = `${charCount} / ${maxLength}`;
+            });
+        });
+    </script>
+
+    <script>
+        // button loader on click
+        $('.loader-dot-pulse').on('click', function () {
+            var self = this;
+            $(this).addClass('btn__dots--loading');
+            $(this).append('<span class="btn__dots"><i></i><i></i><i></i></span>');
+            setTimeout(function () {
+                $(self).removeClass('btn__dots--loading');
+                $(self).find('.btn__dots').remove();
+            }, 2000);
+
+        });
+    </script>
+
+    <!-- dropdown active -->
+    <script>
+        const dropdownMenu = document.getElementById('dropdownMenu');
+
+        // Handle dropdown item click
+        dropdownMenu.addEventListener('click', (event) => {
+            if (event.target.classList.contains('dropdown-item')) {
+                // Remove 'active' class from all items
+                dropdownMenu.querySelectorAll('.dropdown-item').forEach((item) => {
+                    item.classList.remove('active');
+                });
+                // Add 'active' class to the clicked item
+                event.target.classList.add('active');
+            }
+        });
+    </script>
+</body>
+
+</html>

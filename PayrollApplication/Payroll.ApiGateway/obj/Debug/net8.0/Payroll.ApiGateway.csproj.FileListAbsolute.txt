@@ -1,0 +1,1057 @@
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\Rohit Tiwari\OneDrive\Desktop\New Advance Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\Rohit.Tiwari\Desktop\Mantra\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+D:\Mantra_Payroll\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Priyanshi\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+D:\,netProject\Mantra_payroll\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\Abhishek.Yadav\Downloads\Mantra_Payroll_24-09-2024\Mantra_Payroll_24-09-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Final_Project\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\vishal\Downloads\beta2\PayrollApplication_Dynamic_Role_new (2)\07_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\Abhishek.Yadav\Downloads\Beta2\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\21-10-24\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\ActivateDeactivateUSER\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Harshida\Project\Sprint2\NotificationIcon\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Harshida\Single_R_28-10-2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\vishal\Downloads\29_10_payroll\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\lenov\Downloads\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+C:\Users\vishal\Downloads\29_10_payroll\yamik_payroll\PayrollApplication\PayrollApplication\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+D:\,netProject\Mantra_payroll\30_10_2024\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+E:\Abhishek\Developers_Work\Abhishek\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.deps.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.runtimeconfig.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.exe
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.exe
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.deps.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.runtimeconfig.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Dapper.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\bin\Debug\net8.0\Payroll.Common.pdb
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.AssemblyReference.cache
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfoInputs.cache
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.AssemblyInfo.cs
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.csproj.CoreCompileInputs.cache
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.sourcelink.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Payroll.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Payroll.ApiGateway.props
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Payroll.ApiGateway.props
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Payroll.ApiGateway.props
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\scopedcss\bundle\Payroll.ApiGateway.styles.css
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll..E35DACDA.Up2Date
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\refint\Payroll.ApiGateway.dll
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.pdb
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\Payroll.ApiGateway.genruntimeconfig.cache
+D:\Payroll_Git\PayrollApplication\Payroll.ApiGateway\obj\Debug\net8.0\ref\Payroll.ApiGateway.dll
