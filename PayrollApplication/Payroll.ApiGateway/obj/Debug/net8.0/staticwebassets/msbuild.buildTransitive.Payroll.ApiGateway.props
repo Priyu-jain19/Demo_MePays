@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Payroll.ApiGateway.props" />
-</Project>

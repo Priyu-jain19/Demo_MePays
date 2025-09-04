@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Payroll.Common.props" />
-</Project>
