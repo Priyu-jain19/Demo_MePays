@@ -364,7 +364,6 @@ $(document).ready(function () {
                 };
             }) : [];
             $("#v-pills-messages-tab").tab('show');
-
             //$.ajax({
             //    url: "/User/AddRecord",
             //    type: "POST",
@@ -382,14 +381,14 @@ $(document).ready(function () {
             //            //}, 1000);
 
             //            $("#v-pills-messages-tab").tab('show');
-            //            //// Reset all input fields
-            //            //$("#firstTab")[0].reset(); // Reset the form fields
-            //            //// Reset all input fields
-            //            //$("#secondTab")[0].reset(); // Reset the form fields
-            //            //// Reset Select2 dropdowns
-            //            //$("#usertype,#salutationsDropdown,#countries,#Companies, #countriesname, #state, #branch, #role, #department").val(null).trigger("change");
-            //            //// Reset manually populated text fields
-            //            //$("#dropdownTextbox").text("");
+            //            // reset all input fields
+            //            //$("#firsttab")[0].reset(); // reset the form fields
+            //            //// reset all input fields
+            //            //$("#secondtab")[0].reset(); // reset the form fields
+            //            //// reset select2 dropdowns
+            //            //$("#usertype,#salutationsdropdown,#countries,#companies, #countriesname, #state, #branch, #role, #department").val(null).trigger("change");
+            //            //// reset manually populated text fields
+            //            //$("#dropdowntextbox").text("");
             //            //$("#common-validation-message").text("");
             //        } else {
             //            showAlert("danger", response.message);
@@ -494,29 +493,135 @@ $(document).ready(function () {
     });
 
     $('#v-pills-messages-tab').on('shown.bs.tab', function () {
-        populateRoleDropdown(); // Populate role dropdown
+        const userId = 474; // $("#userId").val();
+        const companyId = $("#Companies").val();
+        const locationDropdown = $("#userLocation");
+        const roleDropdown = $("#userRole");
 
-        // Initialize variables for roleId and companyId
-        let roleId = $("#userRole").val(); // Selected role ID from populated dropdown
-        const companyId = $("#Companies").val(); // Get selected company ID
+        // Initialize Select2 once
+        reinitializeSelect2(locationDropdown, "Select a Location");
+        reinitializeSelect2(roleDropdown, "Select a Role");
 
-        // Attach change event to dynamically update roleId
-        $('#userRole').on('change', function () {
-            roleId = $(this).val();  // Update roleId based on current dropdown selection
-            if (roleId && companyId) {
-                fetchMenuData(roleId, companyId); // Fetch menu data with new roleId
-            } else {
-                //alert('Please select a role.');
+        $.ajax({
+            url: `/User/FetchUserLocationWiseRole?userId=${userId}&companyId=${companyId}&correspondanceId=null`,
+            type: "GET",
+            success: function (response) {
+                const locations = response.data?.locationWiseRoles || [];
+                resetSelect(locationDropdown, "Select a Location");
+                resetSelect(roleDropdown, "Select a Role");
+
+                const grouped = {};
+                if (locations.length > 0) {
+                    $.each(locations, function (i, loc) {
+                        if (!grouped[loc.correspondance_Id]) {
+                            grouped[loc.correspondance_Id] = {
+                                locationName: loc.locationName,
+                                roles: []
+                            };
+                        }
+                        grouped[loc.correspondance_Id].roles.push({
+                            roleId: String(loc.role_Id),
+                            roleUserId: String(loc.role_User_Id),
+                            roleMenuHeaderId: String(loc.role_Menu_Header_Id),
+                            roleName: loc.roleName
+                        });
+                    });
+
+                    // Populate locations
+                    Object.entries(grouped).forEach(([correspondanceId, item]) => {
+                        locationDropdown.append(
+                            `<option value="${correspondanceId}">${item.locationName}</option>`
+                        );
+                    });
+
+                    // ✅ Auto-select first location
+                    const firstCorrespondanceId = Object.keys(grouped)[0];
+                    if (firstCorrespondanceId) {
+                        locationDropdown.val(firstCorrespondanceId).trigger("change.select2");
+                        populateRoles(firstCorrespondanceId, grouped);
+                    }
+                } else {
+                    locationDropdown.append(new Option("No locations found", ""));
+                    roleDropdown.append(new Option("No roles available", ""));
+                }
+
+                // On location change
+                locationDropdown.off("change").on("change", function () {
+                    const correspondanceId = $(this).val();
+                    resetSelect(roleDropdown, "Select a Role");
+
+                    if (correspondanceId) {
+                        populateRoles(correspondanceId, grouped);
+                    }
+                });
+
+                // On role change
+                roleDropdown.off("change").on("change", function () {
+                    const selectedRoleId = String($(this).val());
+                    const correspondanceId = String(locationDropdown.val());
+
+                    if (selectedRoleId && companyId && correspondanceId) {
+                        const selectedRole = (grouped[correspondanceId]?.roles || [])
+                            .find(r => r.roleId === selectedRoleId);
+
+                        if (selectedRole) {
+                            fetchMenuData(selectedRole.roleMenuHeaderId, companyId);
+                        }
+                    } else {
+                        $(".treeview").empty();
+                    }
+                });
+
+                // Helper
+                function populateRoles(correspondanceId, grouped) {
+                    const roles = grouped[correspondanceId]?.roles || [];
+                    resetSelect(roleDropdown, "Select a Role");
+
+                    roles.forEach(r => {
+                        roleDropdown.append(
+                            `<option value="${r.roleId}">${r.roleName}</option>`
+                        );
+                    });
+
+                    roleDropdown.trigger("change.select2");
+
+                    // ✅ Auto-select first role
+                    if (roles.length > 0) {
+                        const firstRoleId = roles[0].roleId;
+                        roleDropdown.val(firstRoleId).trigger("change.select2");
+
+                        fetchMenuData(roles[0].roleMenuHeaderId, companyId);
+                    }
+                }
+            },
+            error: function (xhr) {
+                console.error("Error fetching locations:", xhr.responseText);
             }
         });
-
-        // Initial fetch when tab is shown
-        if (roleId && companyId) {
-            fetchMenuData(roleId, companyId);  // Fetch menu data with the initial selection
-        } else {
-            //alert('Please select a role.');
-        }
     });
+
+
+    // ✅ Common helpers
+    function resetSelect($dropdown, placeholder) {
+        $dropdown.empty();
+        $dropdown.append(`<option value="">${placeholder}</option>`);
+        $dropdown.val("").trigger("change.select2");
+    }
+
+    function reinitializeSelect2($dropdown, placeholder = "Select an option") {
+        if ($dropdown.data('select2')) {
+            $dropdown.select2('destroy');
+        }
+        $dropdown.select2({
+            width: '100%',
+            placeholder: placeholder,
+            allowClear: true
+        });
+    }
+
+
+
+
     // Function to fetch menu data
     function fetchMenuData(roleId, companyId) {
         $.ajax({
@@ -876,12 +981,6 @@ $(document).ready(function () {
             showAlert("danger", "Please enter a valid email.");
         }
     });
-
-
-
-
-
-
     $('#effectiveFromDt').datepicker({
         format: 'dd/mm/yyyy',     // Display date format
         startDate: '0d',          // Disable past dates in calendar
